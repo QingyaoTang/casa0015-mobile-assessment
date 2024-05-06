@@ -12,7 +12,7 @@ date: "7 May 2024"
 ## Link to GitHub Repository
 
 WeatherMusic - MY APPLICATION NAME
-GitHub Repository - [https://github.com/ucl-casa-ce/casa0015-mobile-assessment](https://github.com/ucl-casa-ce/casa0015-mobile-assessment)
+GitHub Repository - [https://github.com/QingyaoTang/casa0015-mobile-assessment](https://github.com/QingyaoTang/casa0015-mobile-assessment)
 
 ## Introduction to Application
 
