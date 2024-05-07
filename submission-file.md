@@ -24,9 +24,12 @@ But our app isn't limited to just music. We go beyond by incorporating astrology
 
 ## Biblography
 
-1. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). <http://google.com>
+1. Dart Team. (No year). Dart Programming Language. [Online] Available at: https://dart.dev/guides [Accessed 11 April 2024].
 
-2. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s).  <http://google.com>
+2. Flutter Team. (No year). Flutter Documentation. [Online] Available at: https://flutter.dev/docs [Accessed 7 April 2024].
+
+3. 
+
 
 ----
 
