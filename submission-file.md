@@ -1,7 +1,7 @@
 <!---
 
 ---
-title: "CASA0017: Web Architecture Final Assessment"
+title: "CASA0017: Mobile System Final Assessment"
 author: "Steven Gray"
 date: "7 May 2024"
 ---
@@ -24,11 +24,13 @@ But our app isn't limited to just music. We go beyond by incorporating astrology
 
 ## Biblography
 
-1. Dart Team. (No year). Dart Programming Language. [Online] Available at: https://dart.dev/guides [Accessed 11 April 2024].
+1. Dart Team. (No year). Dart Programming Language. [Online] Available at: https://dart.dev/guides [Accessed 13 April 2024].
 
-2. Flutter Team. (No year). Flutter Documentation. [Online] Available at: https://flutter.dev/docs [Accessed 7 April 2024].
+2. Flutter Team. (No year). Flutter Documentation. [Online] Available at: https://flutter.dev/docs [Accessed 13 April 2024].
 
-3. 
+3. Ruoyi Team. (No year). Ruoyi Documentation. [Online] Available at: http://120.79.202.7/ [Accessed 23 April 2024].
+
+4. QQMusic. (No year). 
 
 
 ----
