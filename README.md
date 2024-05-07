@@ -12,7 +12,11 @@ Introducing our innovative app that seamlessly blends music and weather, tailore
 [vedio](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/646.mov)
 
 ## Pages display
-[page1]
+[page1](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/832e4ada131f5730f21a4e1c6433e25e.jpg)  
+[page2](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/f7edb2f942b7433f4c70eb6fb424be45.jpg)  
+
+## Prepare in advance: link to various frameworks  
+
 
 
 
