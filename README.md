@@ -55,7 +55,8 @@ Step 4: Run the Application
 
 This will launch the application on your device and install it for testing.  
 
-versions of the plugins:[versions of the plugins](
+versions of the plugins:[versions of the plugins](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/IMG_9357.PNG)  
+
 
 ##  Contact Details
 
