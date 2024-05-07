@@ -4,11 +4,12 @@ Introducing our innovative app that seamlessly blends music and weather, tailore
 
 ## Highlights 
 
-📍 Real-time Weather Updates: Utilize location services to provide up-to-date weather conditions wherever you are.
-🎶 Personalized Music Recommendations: Let the app automatically suggest music tailored to the current weather. Whether it's sunny, cloudy, or rainy, we've got the perfect soundtrack for your mood.
-🌟Daily Horoscope and Lucky Numbers: Enhance your daily routine with personalized horoscope readings and lucky numbers based on your zodiac sign.
+📍 Real-time Weather Updates: Utilize location services to provide up-to-date weather conditions wherever you are.  
+🎶 Personalized Music Recommendations: Let the app automatically suggest music tailored to the current weather. Whether it's sunny, cloudy, or rainy, we've got the perfect soundtrack for your mood.  
+🌟Daily Horoscope and Lucky Numbers: Enhance your daily routine with personalized horoscope readings and lucky numbers based on your zodiac sign.  
 
-## Video display
+## Video display  
+【vedio](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/646.mov)
 
 
 
