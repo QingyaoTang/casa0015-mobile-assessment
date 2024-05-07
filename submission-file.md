@@ -1,46 +1,51 @@
 <!---
 
 ---
-title: "CASA0017: Web Architecture Final Assessment"
-author: "Steven Gray"
-date: "10 Dec 2021"
+title: "CASA0017: Mobile System Final Assessment"
+author: "Qingyao Tang"
+date: "7 May 2024"
 ---
 
 -->
 
-# Submission Guide
-
-You will need to edit this file, create a PDF using the instructions below, from this file.   Sign it digitally and upload to Moodle
-
-## How to create a PDF from Markdown
-When finished you should export to PDF using VSCode and MarkdownPDF Extension. Make sure you select no headers and no footers in the
-extension preferences before exporting to PDF.   
-
-Upload this PDF into Moodle for submission including a copy of your presentation slides.
 
 ## Link to GitHub Repository
 
-Flutter Application Name - MY APPLICATION NAME
-GitHub Repository - [https://github.com/ucl-casa-ce/casa0015-mobile-assessment](https://github.com/ucl-casa-ce/casa0015-mobile-assessment)
+WeatherMusic - MY APPLICATION NAME
+GitHub Repository - [https://github.com/QingyaoTang/casa0015-mobile-assessment](https://github.com/QingyaoTang/casa0015-mobile-assessment)
 
 ## Introduction to Application
 
-A brief 200 word explanation of your application and it's use.  Below create a Bibliography to code, tutorial, or plugins you've used in the project. Use this guide
-for citation - [https://www.scribbr.co.uk/referencing/harvard-website-reference/](https://www.scribbr.co.uk/referencing/harvard-website-reference/)
+Welcome to our innovative application, where music and weather harmonize to create the perfect ambiance for every moment. Picture this: you step outside, and instead of just feeling the sun on your face or the chill in the air, you're greeted with a melody that complements the atmosphere around you. That's the magic of our app.
+
+Using advanced location-based technology, our app seamlessly integrates with your surroundings, offering a curated playlist that matches the current weather conditions. Imagine a sunny day, and upbeat, cheerful tunes accompany your stroll. Or during those cloudy, contemplative afternoons, soulful melodies provide the soundtrack to your thoughts. No matter the weather, our app ensures that the music enhances your experience.
+
+But our app isn't limited to just music. We go beyond by incorporating astrology into your daily routine. By simply entering your zodiac sign, you unlock a world of personalized insights. Each day, receive your horoscope readings tailored to your sign, guiding you through the celestial influences shaping your life. Additionally, discover your lucky numbers, adding an element of serendipity to your day.
 
 ## Biblography
 
-1. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). <http://google.com>
+1. Dart Team. (No year). Dart Programming Language. [Online] Available at: https://dart.dev/guides [Accessed 13 April 2024].
 
-2. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s).  <http://google.com>
+2. Flutter Team. (No year). Flutter Documentation. [Online] Available at: https://flutter.dev/docs [Accessed 13 April 2024].
+
+3. Ruoyi Team. (No year). Ruoyi Documentation. [Online] Available at: http://120.79.202.7/ [Accessed 23 April 2024].
+
+4. Rain120. (No year). QQ Music API Documentation. [Online] Available at: https://rain120.github.io/qq-music-api/#/?id=qqmusicapi [Accessed 23 April 2024].
+
+5. Tianqi Team. (No year). Weather API Documentation. [Online] Available at: http://www.tianqiapi.com/index/doc [Accessed 27 April 2024].
+
+6. TianAPI Team. (No year). Horoscope API Documentation. [Online] Available at: https://www.tianapi.com/ [Accessed 28 April 2024].
+
+7. Baidu Team. (No year). Baidu Translation API Documentation. [Online] Available at: https://fanyi-api.baidu.com/api/trans/vip/translate [Accessed 1 May 2024].
+
 
 ----
 
 ## Declaration of Authorship
 
-We, AUTHORS NAME HERE, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Qingyao Tang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 
-Digitally Sign with Your name Here
+Qingyao Tang
 
-ASSESSMENT DATE
+7 May 2024
