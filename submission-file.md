@@ -30,7 +30,13 @@ But our app isn't limited to just music. We go beyond by incorporating astrology
 
 3. Ruoyi Team. (No year). Ruoyi Documentation. [Online] Available at: http://120.79.202.7/ [Accessed 23 April 2024].
 
-4. QQMusic. (No year). 
+4. Rain120. (No year). QQ Music API Documentation. [Online] Available at: https://rain120.github.io/qq-music-api/#/?id=qqmusicapi [Accessed 23 April 2024].
+
+5. Tianqi Team. (No year). Weather API Documentation. [Online] Available at: http://www.tianqiapi.com/index/doc [Accessed 27 April 2024].
+
+6. TianAPI Team. (No year). Horoscope API Documentation. [Online] Available at: https://www.tianapi.com/ [Accessed 28 April 2024].
+
+7. Baidu Team. (No year). Baidu Translation API Documentation. [Online] Available at: https://fanyi-api.baidu.com/api/trans/vip/translate [Accessed 1 May 2024].
 
 
 ----
