@@ -9,7 +9,10 @@ Introducing our innovative app that seamlessly blends music and weather, tailore
 🌟Daily Horoscope and Lucky Numbers: Enhance your daily routine with personalized horoscope readings and lucky numbers based on your zodiac sign.  
 
 ## Video display  
-【vedio](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/646.mov)
+[vedio](https://github.com/QingyaoTang/casa0015-mobile-assessment/blob/main/646.mov)
+
+## Pages display
+[page1]
 
 
 
