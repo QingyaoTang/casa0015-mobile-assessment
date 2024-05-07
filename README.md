@@ -1,17 +1,15 @@
-# REPLACE WITH YOUR APP NAME
+# WeatherMusic
 
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
+Introducing our innovative app that seamlessly blends music and weather, tailored just for you. Have you ever wanted the perfect soundtrack to complement your surroundings? Look no further. Our app uses your location to curate a personalized music experience based on the weather conditions. Whether it’s a sunny day calling for upbeat tunes or a cloudy sky inspiring soulful melodies, we’ve got you covered. But that’s not all. We also offer daily horoscope readings and lucky numbers based on your zodiac sign, adding an extra touch of serendipity to your day. Embrace the harmony of music and astrology with our app today!
 
-## Use this README File 
+## Highlights 
 
-Use this section to show us what your Mobile App is about.   Include a Screenshot to the App, link to the various frameworks you've used. Include your presentation video here that shows off your Mobile App.   Emojis are also fun to include 📱 😄
+📍 Real-time Weather Updates: Utilize location services to provide up-to-date weather conditions wherever you are.
+🎶 Personalized Music Recommendations: Let the app automatically suggest music tailored to the current weather. Whether it's sunny, cloudy, or rainy, we've got the perfect soundtrack for your mood.
+🌟Daily Horoscope and Lucky Numbers: Enhance your daily routine with personalized horoscope readings and lucky numbers based on your zodiac sign.
 
-Look at some other Flutter Apps online and see how they use there README File.  Good examples are:
+## Video display
 
-- https://github.com/miickel/flutter_particle_clock
-- https://github.com/Tarikul711/flutter-food-delivery-app-ui    
-- https://github.com/mohak1283/Instagram-Clone
 
 
 ## Include A Section That Tells Developers How To Install The App
@@ -20,4 +18,4 @@ Include a section that gives intructions on how to install the app or run it in 
 
 ##  Contact Details
 
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
+email:ucbvqt1@ucl.ac.uk
